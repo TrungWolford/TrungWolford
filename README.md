@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [LE DINH TRUNG] 👋</h1>
+<h1 align="center">Hi, I'm Le Dinh Trung 👋</h1>
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
 I am a Software Engineer focusing on backend development, with a strong foundation in the Java and Spring Boot ecosystem. I care deeply about building secure, reliable systems, clean API design, and well-structured software architecture. Recently, I have been exploring the practical integration of AI and LLMs into backend services to build intelligent, real-world applications. I am continuously striving to improve my knowledge of production-grade engineering and scalable system design.
