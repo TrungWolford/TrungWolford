@@ -8,7 +8,7 @@ I am a Software Engineer focusing on backend development, with a strong foundati
 - **Backend Systems & API Design:** Building robust REST APIs using layered architecture, documented with Swagger/OpenAPI.
 - **Security & Authentication:** Implementing JWT-based authentication, refresh tokens, MFA, OTP flows, and robust access control.
 - **AI-Powered Integration:** Bridging the gap between traditional backends and AI via function calling, structured LLM outputs, and AI guardrails.
-- **Engineering Quality:** Ensuring reliability through Docker-based deployments, automated integration/E2E testing, and performance testing.
+- **Engineering Quality:** Ensuring reliability through Docker-based deployments, automated integration/E2E testing, and performance testing (Gatling).
 
 ## 💻 Tech Stack
 
